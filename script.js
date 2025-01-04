@@ -6,6 +6,9 @@ const productGrid = document.querySelector('.product-grid');
 const navLinks = document.querySelectorAll('.main-nav a');
 const newsletterForm = document.querySelector('.newsletter form');
 
+
+
+
 // Initialize cart as an empty array
 let cart = [];
 
